@@ -1,6 +1,6 @@
 # Free Bootstrap Float & Layouts Collection
 
-Learn how to modify columns with multiple alignments, ordering, and offsetting with the flexbox grid system. Also, see how to use column classes to manage widths of non-grid elements.
+Toggle floats on any element, at any breakpoint, using responsive float utilities.
 
 <p><strong>How to use it?</strong></p>
 <p class="mb-2">
